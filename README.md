@@ -8,6 +8,22 @@ A Python-based utility to organize files into categorized folders based on file 
 ```bash
 $ python3 file_organizer.py
 ```
+### Recommended Usage
+```bash
+#Clone Program(or copy and paste)
+git clone https://github.com/TaileyEatherton/file_organizer.git
+
+cd FILE_ORGANIZER
+
+#Make program an executable
+chmod +x file_organizer.py
+
+#Move the Script to a Directory in Your $PATH
+sudo mv file_organizer.py /usr/local/bin/fileorganizer
+
+#Run program from anywhere
+fileorganizer
+```
 
 ## 🚀 Features
 
