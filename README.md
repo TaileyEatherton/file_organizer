@@ -33,7 +33,7 @@ $ python3 file_organizer.py
 ---
 
 ## 📂 How It Works
-
+NOTE: This Script will take the files in the CURRENT directory and move them to folders in the HOME directory.
 When you run the script, you’ll be prompted to choose one of the following options:
 
 ### 1. **Organize All Files**
