@@ -1,4 +1,4 @@
-# 📁 File Organizer Script
+# 📁 File Organizer CLI Script
 
 A Python-based utility to organize files into categorized folders based on file type or keywords in the file name. Great for quickly cleaning up messy directories.
 
